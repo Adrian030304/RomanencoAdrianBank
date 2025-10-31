@@ -10,6 +10,10 @@ RomanencoAdrianBank is a web-based banking application developed as a university
 - **Object-Oriented Design:** Utilizes OOP principles for better code structure and maintainability.
 - **Core Banking Operations:** Implements basic functionalities such as account management and transactions.
 
+-**Bank App Diagram:**
+<img width="1277" height="815" alt="image" src="https://github.com/user-attachments/assets/f487ed5d-1c1c-498d-a16b-3e35025da36f" />
+
+
 ## Technologies Used
 
 - **ASP.NET:** Framework for building the web application.
