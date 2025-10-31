@@ -32,4 +32,8 @@ Public Class Login
     Protected Sub btnRegister_Click(sender As Object, e As EventArgs) Handles btnRegister.Click
         Response.Redirect("Registration.aspx")
     End Sub
+<<<<<<< HEAD
+=======
+
+>>>>>>> Add project files.
 End Class
