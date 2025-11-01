@@ -76,6 +76,7 @@
             <span class="newStyle1">Account information : </span>
             <br />
             <asp:GridView ID="grdUserInfo" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="Black" BorderStyle="Solid" BorderWidth="1px" CellPadding="3" DataSourceID="sqlDSInfo" EmptyDataText="Unavailable Data" ForeColor="Black">
+                <Columns>
                     <asp:BoundField DataField="LastName" HeaderText="LastName" SortExpression="LastName" />
                     <asp:BoundField DataField="FirstName" HeaderText="FirstName" SortExpression="FirstName" />
                     <asp:BoundField DataField="DateOfBirth" HeaderText="DateOfBirth" SortExpression="DateOfBirth" />
