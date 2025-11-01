@@ -68,8 +68,6 @@ Partial Public Class Registration
     Protected WithEvents btnRegister As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-<<<<<<< HEAD
-=======
     '''btnLogin control.
     '''</summary>
     '''<remarks>
@@ -79,7 +77,6 @@ Partial Public Class Registration
     Protected WithEvents btnLogin As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
->>>>>>> Add project files.
     '''lblMessage control.
     '''</summary>
     '''<remarks>

@@ -102,8 +102,6 @@ Partial Public Class CreditPage
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnCalculatePay As Global.System.Web.UI.WebControls.Button
-<<<<<<< HEAD
-=======
 
     '''<summary>
     '''lblError control.
@@ -113,5 +111,4 @@ Partial Public Class CreditPage
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblError As Global.System.Web.UI.WebControls.Label
->>>>>>> Add project files.
 End Class

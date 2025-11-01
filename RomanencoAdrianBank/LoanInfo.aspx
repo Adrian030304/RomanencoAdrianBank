@@ -4,18 +4,6 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<<<<<<< HEAD
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-            <asp:Label ID="lblMsg" runat="server"></asp:Label>
-            <br />
-            <asp:Button ID="btnGoBack" runat="server" Text="Go back" />
-        </div>
-    </form>
-=======
     <title>Information</title>
     <style type="text/css">
         body{
@@ -65,6 +53,5 @@
             </div>
         </form>
     </div>
->>>>>>> Add project files.
 </body>
 </html>

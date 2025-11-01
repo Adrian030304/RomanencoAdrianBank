@@ -1,8 +1,5 @@
 ﻿Imports System.Data.SqlClient
-<<<<<<< HEAD
-=======
 Imports System.EnterpriseServices
->>>>>>> Add project files.
 
 Public Class Registration
     Inherits System.Web.UI.Page
@@ -17,8 +14,6 @@ Public Class Registration
             Return
         End If
 
-<<<<<<< HEAD
-=======
         If (String.IsNullOrWhiteSpace(txtUsername.Text) _
                 Or String.IsNullOrWhiteSpace(txtEmail.Text) _
                 Or String.IsNullOrWhiteSpace(txtPassword.Text) _
@@ -27,7 +22,6 @@ Public Class Registration
             Return
         End If
 
->>>>>>> Add project files.
         Dim cn As New SqlConnection
         cn.ConnectionString = sqlDSRegistration.ConnectionString
         Dim cmd As New SqlCommand("INSERT INTO Users (UserName, Password, Email) VALUES (@UserName, @Password, @Email)", cn)
@@ -48,8 +42,6 @@ Public Class Registration
         Session("RegisteredPassword") = txtPassword.Text
         Response.Redirect("Login.aspx")
     End Sub
-<<<<<<< HEAD
-=======
 
     Protected Sub sqlDSRegistration_Selecting(sender As Object, e As SqlDataSourceSelectingEventArgs)
 
@@ -58,5 +50,4 @@ Public Class Registration
     Protected Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
         Response.Redirect("Login.aspx")
     End Sub
->>>>>>> Add project files.
 End Class

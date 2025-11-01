@@ -32,15 +32,6 @@ Partial Public Class AccountInfo
     Protected WithEvents grdUserInfo As Global.System.Web.UI.WebControls.GridView
 
     '''<summary>
-    '''grdUserInfo control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents grdUserInfo As Global.System.Web.UI.WebControls.GridView
-
-    '''<summary>
     '''sqlDSInfo control.
     '''</summary>
     '''<remarks>
@@ -48,24 +39,6 @@ Partial Public Class AccountInfo
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents sqlDSInfo As Global.System.Web.UI.WebControls.SqlDataSource
-
-    '''<summary>
-    '''sqlDSInfo control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents sqlDSInfo As Global.System.Web.UI.WebControls.SqlDataSource
-
-    '''<summary>
-    '''GridView1 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents GridView1 As Global.System.Web.UI.WebControls.GridView
 
     '''<summary>
     '''GridView1 control.
