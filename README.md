@@ -13,6 +13,23 @@ RomanencoAdrianBank is a web-based banking application developed as a university
 -**Bank App Diagram:**
 <img width="1277" height="815" alt="image" src="https://github.com/user-attachments/assets/f487ed5d-1c1c-498d-a16b-3e35025da36f" />
 
+## Demo
+'credit page.png'   monthly_payment.png       'stanciu bank account.png'
+ homepage.png      'p_dima_account info.png'  'stanciu transactions.png'
+ loan_info.png     'pdima transactions.png'    transactions.png
+ login_page.png     registration.png           user_not_found_error.png
+![login_page](../demo/login_page.png?raw=true)
+![homepage](../demo/homepage.png?raw=true)
+![registration](../demo/registration.png?raw=true)
+![credit page](../demo/credit_page.png?raw=true)
+![loan_info](../demo/loan_info.png?raw=true)
+![monthly_payment](../demo/monthly_payment.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
+![credit page](../demo/XXXX.png?raw=true)
 
 ## Technologies Used
 
