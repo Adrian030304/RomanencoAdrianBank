@@ -14,6 +14,7 @@ RomanencoAdrianBank is a web-based banking application developed as a university
 <img width="1277" height="815" alt="image" src="https://github.com/user-attachments/assets/f487ed5d-1c1c-498d-a16b-3e35025da36f" />
 
 ## Demo
+![website_bank_demo](https://github.com/user-attachments/assets/75fa4ade-b42d-472a-8766-125718a1fb08)
 
 
 ## Technologies Used
